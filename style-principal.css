@@ -105,8 +105,8 @@ body {
   margin-right: 10px; 
 }
 .social-icons {
-  position: fixed;
-  bottom: 90px;
+  position: relative;
+  bottom: -200px; 
   left: 70px; 
 }
 
