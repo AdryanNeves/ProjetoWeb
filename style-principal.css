@@ -106,8 +106,8 @@ body {
 }
 .social-icons {
   position: fixed;
-  bottom: 90px; /* Defina a distância vertical desejada a partir da parte inferior */
-  left: 70px; /* Defina a distância horizontal desejada a partir da parte direita */
+  bottom: 90px;
+  left: 70px; 
 }
 
 hr {
