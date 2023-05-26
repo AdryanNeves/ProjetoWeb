@@ -99,16 +99,15 @@ body {
   color: #0078F0;
 }
 
-.social-icons {
-  position: absolute;
-  bottom: 87px; 
-  left: 70px; 
-}
-
 .social-icon {
   width: 25px;
   height: 25px;
   margin-right: 10px; 
+}
+.social-icons {
+  position: fixed;
+  bottom: 90px; /* Defina a distância vertical desejada a partir da parte inferior */
+  left: 70px; /* Defina a distância horizontal desejada a partir da parte direita */
 }
 
 hr {
